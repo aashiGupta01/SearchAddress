@@ -1,0 +1,12 @@
+D:\SearchAddress\SearchAddress.API\SearchAddress.Repository\bin\Debug\netcoreapp3.1\SearchAddress.Repository.deps.json
+D:\SearchAddress\SearchAddress.API\SearchAddress.Repository\bin\Debug\netcoreapp3.1\SearchAddress.Repository.dll
+D:\SearchAddress\SearchAddress.API\SearchAddress.Repository\bin\Debug\netcoreapp3.1\SearchAddress.Repository.pdb
+D:\SearchAddress\SearchAddress.API\SearchAddress.Repository\bin\Debug\netcoreapp3.1\SearchAddress.Entities.dll
+D:\SearchAddress\SearchAddress.API\SearchAddress.Repository\bin\Debug\netcoreapp3.1\SearchAddress.Entities.pdb
+D:\SearchAddress\SearchAddress.API\SearchAddress.Repository\obj\Debug\netcoreapp3.1\SearchAddress.Repository.csprojAssemblyReference.cache
+D:\SearchAddress\SearchAddress.API\SearchAddress.Repository\obj\Debug\netcoreapp3.1\SearchAddress.Repository.AssemblyInfoInputs.cache
+D:\SearchAddress\SearchAddress.API\SearchAddress.Repository\obj\Debug\netcoreapp3.1\SearchAddress.Repository.AssemblyInfo.cs
+D:\SearchAddress\SearchAddress.API\SearchAddress.Repository\obj\Debug\netcoreapp3.1\SearchAddress.Repository.csproj.CopyComplete
+D:\SearchAddress\SearchAddress.API\SearchAddress.Repository\obj\Debug\netcoreapp3.1\SearchAddress.Repository.dll
+D:\SearchAddress\SearchAddress.API\SearchAddress.Repository\obj\Debug\netcoreapp3.1\SearchAddress.Repository.pdb
+D:\SearchAddress\SearchAddress.API\SearchAddress.Repository\obj\Debug\netcoreapp3.1\SearchAddress.Repository.csproj.CoreCompileInputs.cache
